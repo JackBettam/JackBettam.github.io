@@ -93,6 +93,7 @@ h6{
 .w3-sans-serif{
     font-family:sans-serif
 }
+/* type face */
 h1,h2,h3,h4,h5,h6{
     font-family:"Segoe UI",Arial,sans-serif;
     font-weight:400;
@@ -374,12 +375,33 @@ a{
 .w3-right{
     float:right!important
 }
+/*colors */
 .highlight{
     display:inline;
     padding:.25em;
     background:#009688;
     color:#fff;
     box-shadow:.5em 0 0 #009688,-.5em 0 0 #009688
+}
+.tag-python{
+    
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    background-color: #3682f4;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+.tag-cpp{
+    
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    background-color: #ff7fec;
+    color: white;
+    text-align: center;
+    font-size: 12px;
 }
 .w3-hover-teal:hover,.w3-teal{
     color:#fff!important;
