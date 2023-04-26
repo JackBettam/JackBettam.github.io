@@ -1,0 +1,38 @@
+.tag-cpp{
+    
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    background-color: #ff7fec;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+.tag-python{ 
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    background-color: #3682f4;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+.tag-grade{
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    background-color: #005a52;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    opacity: 1!important;
+}
+.tag-current{
+    color:#fff;
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    text-align:center;
+    background-color:#009688;
+    border-radius:4px;
+}
